@@ -1,0 +1,22 @@
+[68, 74, 73, 96, 30, 2, 27, 41, 38]
+[30, 41, 69, 12, 84, 59]
+[90, 15, 14, 1, 18, 62, 87]
+Using Bubble Sort Algorithm: 
+Before sorting: 
+[68, 74, 73, 96, 30, 2, 27, 41, 38]
+After sorting: 
+[2, 27, 30, 38, 41, 68, 73, 74, 96]
+ 
+Using Selection Sort Algorithm: 
+Before sorting: 
+[30, 41, 69, 12, 84, 59]
+After sorting: 
+[12, 30, 41, 59, 69, 84]
+ 
+Using Insertion Sort Algorithm: 
+Before sorting: 
+[90, 15, 14, 1, 18, 62, 87]
+After sorting: 
+[1, 14, 15, 18, 62, 87, 90]
+
+Process finished with exit code 0

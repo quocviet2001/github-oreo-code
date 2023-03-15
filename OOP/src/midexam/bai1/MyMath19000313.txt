@@ -1,0 +1,1 @@
+Gia tri cua bieu thuc (e^2.2) * cos(3.3): -8.912018253845602
